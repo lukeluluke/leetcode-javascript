@@ -1,5 +1,5 @@
-const nums = [2, 7, 11, 15];
-const target = 9;
+const nums = [1, 10, 25, 34, 60];
+const target = 18;
 
 const twoSum = function (nums, target) {
     let result = {};
